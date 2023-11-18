@@ -1,0 +1,19 @@
+.root {
+  position: absolute;
+  left: 16px;
+  top: 16px;
+  width: 375px;
+  height: 34px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.homeIndicator {
+  position: absolute;
+  left: calc(50% - -0.5px);
+  bottom: 8px;
+  width: 134px;
+  height: 5px;
+  border-radius: 100px;
+  background-color: #000;
+  transform: translateX(-50%);
+}

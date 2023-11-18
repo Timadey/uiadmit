@@ -1,0 +1,459 @@
+.arrowsDiagramsArrow.arrowsDiagramsArrow {
+  left: 6.1538%;
+  right: 81.5385%;
+  top: 6.6351%;
+  bottom: 87.6777%;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.interfaceEssentialAlarmClockTi.interfaceEssentialAlarmClockTi {
+  opacity: 0.6;
+  left: 112px;
+  right: initial;
+  top: 357px;
+  bottom: initial;
+  width: 16px;
+  height: 16px;
+}
+.group.group {
+  width: 16px;
+  height: 16px;
+}
+.group {
+  width: 16px;
+  height: 16px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.iPhoneXOrNewer.iPhoneXOrNewer {
+  left: 0;
+  top: 0;
+  width: 390px;
+}
+.rightSide.rightSide.rightSide {
+  left: 308.6667px;
+}
+.rightSide {
+  left: 308.6667px;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 32px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.rectangle6 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 390px;
+  height: 342px;
+  background-color: #212226;
+}
+.messages {
+  color: #fff;
+  font-size: 20px;
+  line-height: 25px;
+  font-weight: 500;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+  position: absolute;
+  left: 39.7436%;
+  right: 36.9231%;
+  top: 7.9384%;
+  bottom: 89.0995%;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.hiThere {
+  color: #fff;
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 600;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+  position: absolute;
+  left: 104px;
+  top: 136px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.welcomeToUIAdmitGuideAskAnythi {
+  position: absolute;
+  left: 104px;
+  top: 174px;
+  width: 262px;
+  height: min-content;
+  flex-direction: column;
+}
+.textBlock {
+  color: #fff;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+}
+.textBlock3 {
+  margin-top: 0;
+  color: #fff;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+}
+.rectangle7 {
+  position: absolute;
+  left: 24px;
+  top: 269px;
+  width: 342px;
+  height: 190px;
+  border-radius: 15px;
+  background-color: #5d5fef;
+}
+.startANewCoversation {
+  color: #fff;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: 500;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+  text-transform: capitalize;
+  position: absolute;
+  left: 44px;
+  top: 289px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ellipse148 {
+  position: absolute;
+  left: 45px;
+  top: 325px;
+  width: 56px;
+  height: 56px;
+  overflow: visible;
+  filter: drop-shadow(0px 4px 4px #0000001a);
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.chatbotIcon1 {
+  position: absolute;
+  left: 52.1489px;
+  top: 333.1021px;
+  width: 40.7489px;
+  height: 40.7489px;
+  border-radius: 100px;
+  background-image:/* webpackIgnore: true */ url('/assets/chatbotIcon1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.uIAdmitGuideUsualReplyTime {
+  color: #fff;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+  text-transform: capitalize;
+  position: absolute;
+  left: 112px;
+  top: 331px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._6Sec {
+  opacity: 0.6;
+  color: #fff;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+  text-transform: capitalize;
+  position: absolute;
+  left: 132px;
+  top: 355px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.frame {
+  position: absolute;
+  left: 44px;
+  top: 405px;
+  width: 207px;
+  height: min-content;
+  justify-content: center;
+  padding: 8px;
+  border-radius: 8px;
+  background-color: #fff;
+}
+.sendMessageToUIAdmitGuide {
+  color: #212226;
+  font-size: 12.875px;
+  line-height: 18px;
+  font-weight: 500;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.recentConversation {
+  position: absolute;
+  left: 24px;
+  top: 488px;
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+}
+.latestUpdates {
+  color: #212226;
+  font-size: 17px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+  text-transform: capitalize;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._3 {
+  width: 342px;
+  height: min-content;
+  align-items: center;
+  gap: 16px;
+  padding: 10px 0 10px 10px;
+  border-radius: 15px;
+  background-color: #fff;
+  box-shadow: 0px 16px 32px 0px #f5f8fc99;
+}
+.avatar05 {
+  position: relative;
+  width: 64px;
+  height: 64px;
+}
+.ellipse144 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  width: 64px;
+  height: 64px;
+  overflow: visible;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.uILogo2 {
+  position: absolute;
+  left: 19.0635%;
+  right: 18.7743%;
+  top: 14.0625%;
+  bottom: 14.0625%;
+  width: 39.7838px;
+  height: 46px;
+  background-image:/* webpackIgnore: true */ url('/assets/uILogo2.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+._32 {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 3.52px;
+}
+.pREPARATIONFORUIPUTMEEXERCISE {
+  color: #212226;
+  font-size: 13.1434px;
+  line-height: 18.5554px;
+  font-weight: 500;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.uIAdmitGuide2dAgo {
+  color: #949ba5;
+  font-size: 12.32px;
+  line-height: 15.84px;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.ellipse1442 {
+  position: absolute;
+  left: 289px;
+  top: 676px;
+  width: 40px;
+  height: 40px;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.uILogo22 {
+  position: absolute;
+  left: 296.6254px;
+  top: 681.625px;
+  width: 24.8649px;
+  height: 28.75px;
+  background-image:/* webpackIgnore: true */ url('/assets/uILogo22.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ReturnToUIAdmissionsPortal {
+  color: #000;
+  font-size: 13.2374px;
+  line-height: 16.5468px;
+  font-weight: 500;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+  position: absolute;
+  left: 23px;
+  top: 780px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.line1 {
+  position: absolute;
+  left: 40.5396px;
+  top: 796.205px;
+  width: 181px;
+  max-width: 100%;
+  height: 0;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse147 {
+  position: absolute;
+  left: 24px;
+  top: 130px;
+  width: 56px;
+  height: 56px;
+  overflow: visible;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.chatbotIcon12 {
+  position: absolute;
+  left: 30.8936px;
+  top: 138.8127px;
+  width: 39.2936px;
+  height: 39.2936px;
+  background-image:/* webpackIgnore: true */ url('/assets/chatbotIcon12.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.messenger {
+  position: absolute;
+  left: 61px;
+  top: 676px;
+  width: 40px;
+  height: 40px;
+  background-image:/* webpackIgnore: true */ url('/assets/messenger.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.xCloseButton_w1 {
+  position: absolute;
+  left: 334px;
+  top: 73.125px;
+  width: 15.75px;
+  height: 15.75px;
+  background-image:/* webpackIgnore: true */ url('/assets/xCloseButton_w1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.telegramIcon {
+  position: absolute;
+  left: 213px;
+  top: 676px;
+  width: 40px;
+  height: 40px;
+  background-image:/* webpackIgnore: true */ url('/assets/telegramIcon.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.whatsappIcon {
+  position: absolute;
+  left: 137px;
+  top: 676px;
+  width: 40px;
+  height: 40px;
+  background-image:/* webpackIgnore: true */ url('/assets/whatsappIcon.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

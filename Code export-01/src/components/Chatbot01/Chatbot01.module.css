@@ -1,0 +1,199 @@
+.iPhoneXOrNewer.iPhoneXOrNewer {
+  left: 0;
+  top: 0;
+  width: 390px;
+}
+.rightSide.rightSide {
+  left: 308.6667px;
+}
+.rightSide {
+  left: 308.6667px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+  align-items: flex-start;
+  border-radius: 32px;
+  background-color: #fff;
+  overflow: hidden;
+}
+.ellipse1 {
+  position: absolute;
+  left: -59px;
+  top: 33px;
+  width: 240px;
+  height: 240px;
+  overflow: visible;
+  filter: blur(90px);
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.ellipse2 {
+  position: absolute;
+  left: 158px;
+  top: -27px;
+  width: 198px;
+  height: 198px;
+  overflow: visible;
+  filter: blur(90px);
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.rectangle1 {
+  position: absolute;
+  left: 258px;
+  top: 106px;
+  width: 196px;
+  height: 197px;
+  background-color: #c8deff;
+  filter: blur(90px);
+}
+.polygon1 {
+  position: absolute;
+  left: 61px;
+  top: 223px;
+  width: 268px;
+  height: 268px;
+  overflow: visible;
+  filter: blur(90px);
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.union {
+  position: absolute;
+  left: -86px;
+  top: -88px;
+  width: 562px;
+  height: 562px;
+  overflow: visible;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.uiAdmissionPortal_1 {
+  position: absolute;
+  left: 0;
+  top: 44px;
+  width: 390px;
+  height: 767px;
+  background-image:/* webpackIgnore: true */ url('/assets/uiAdmissionPortal_1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.frame2127 {
+  position: absolute;
+  left: 251px;
+  top: 688px;
+  width: 111px;
+  height: 87px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.ellipse148 {
+  position: absolute;
+  left: 56px;
+  top: 32px;
+  width: 55px;
+  height: 55px;
+  overflow: visible;
+  filter: drop-shadow(0px 4px 4px #0000001a);
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.chatbotIcon1 {
+  position: absolute;
+  left: 63px;
+  top: 40px;
+  width: 40px;
+  height: 40px;
+  border-radius: 100px;
+  background-image:/* webpackIgnore: true */ url('/assets/chatbotIcon1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.whiteMessageWhiteChatBubbleAng {
+  transform-origin: top left;
+  position: absolute;
+  left: 60.9167px;
+  top: 4.3077px;
+  width: 60.9167px;
+  height: 56.2308px;
+  background-image:/* webpackIgnore: true */ url('/assets/whiteMessageWhiteChatBubbleAng.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: 0px 3px 5px 0px #0000001f;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.group4 {
+  position: absolute;
+  left: 10.6827px;
+  top: 34.8297px;
+  width: 39.6785px;
+  height: 11.6132px;
+  overflow: visible;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.hiThereNeedSomeHelp {
+  position: absolute;
+  left: 10.6827px;
+  top: 16.8979px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.textBlock {
+  color: #000;
+  font-size: 5.1059px;
+  line-height: 7.8006px;
+  font-weight: 800;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #000;
+  font-size: 5.1059px;
+  line-height: 7.8006px;
+  font-weight: 800;
+  font-family: Gothic A1, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.015em;
+}
+.closeButton_black1 {
+  position: absolute;
+  left: 59px;
+  top: 0;
+  width: 8px;
+  height: 8px;
+  background-image:/* webpackIgnore: true */ url('/assets/closeButton_black1.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
